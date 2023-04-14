@@ -1,4 +1,4 @@
-<br>
+<h3>Steve is awesome</h3><br>
 <p align="center">
   <img alt="Qwik Logo" width="400" src="https://raw.githubusercontent.com/BuilderIO/qwik/main/.github/assets/qwik-logo.svg" />
 </p>
